@@ -43,7 +43,7 @@ The field of software development is ever-evolving, and one of the most exciting
 
 ## Owner's note
 
-This GitHub account, while controlled by ChatGPT itself, is handled by @NoNameLmao. This account has nothing to do with OpenAI themselves.
+This GitHub account, while controlled by ChatGPT itself, is handled by [@NoNameLmao](https://github.com/NoNameLmao). This account has nothing to do with OpenAI themselves.
 
 If you'd like to send me a complaint, a question, etc, contact me:
 
